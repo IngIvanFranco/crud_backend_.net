@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vH6SyhSra5A5uszyfiTd6tmiJ9UbLNTP9kBvlKsAJBmQ469AYPT048wnIEdQUb/X5ztJlBYr841FNZdiTSx9fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coordinador TICS\\source\\repos\\backenapi\\api.Models\\api.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coordinador TICS\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

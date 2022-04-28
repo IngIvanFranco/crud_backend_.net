@@ -1,0 +1,15 @@
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\bin\Release\net5.0\api.Data.deps.json
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\bin\Release\net5.0\api.Data.dll
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\bin\Release\net5.0\api.Data.pdb
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\bin\Release\net5.0\api.Models.dll
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\bin\Release\net5.0\api.Models.pdb
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.csproj.AssemblyReference.cache
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.AssemblyInfoInputs.cache
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.AssemblyInfo.cs
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.csproj.CopyComplete
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.dll
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\refint\api.Data.dll
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\api.Data.pdb
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Data\obj\Release\net5.0\ref\api.Data.dll

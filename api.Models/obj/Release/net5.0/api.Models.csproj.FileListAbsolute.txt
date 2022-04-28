@@ -1,0 +1,12 @@
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\bin\Release\net5.0\api.Models.deps.json
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\bin\Release\net5.0\api.Models.dll
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\bin\Release\net5.0\api.Models.pdb
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\api.Models.csproj.AssemblyReference.cache
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\api.Models.AssemblyInfoInputs.cache
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\api.Models.AssemblyInfo.cs
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\api.Models.csproj.CoreCompileInputs.cache
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\api.Models.dll
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\refint\api.Models.dll
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\api.Models.pdb
+C:\Users\Coordinador TICS\source\repos\backenapi\api.Models\obj\Release\net5.0\ref\api.Models.dll
